@@ -1,4 +1,4 @@
 # hello-world
-For learning
+For playing around
 
 Some modifications done in readme-edits branch
